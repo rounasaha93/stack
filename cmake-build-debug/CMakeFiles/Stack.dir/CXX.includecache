@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rounak/Documents/GitHub/stack/LinearList.h
+iostream
+-
+
+/Users/rounak/Documents/GitHub/stack/Stack.cpp
+Stack.h
+/Users/rounak/Documents/GitHub/stack/Stack.h
+iostream
+-
+
+/Users/rounak/Documents/GitHub/stack/Stack.h
+iostream
+-
+
+/Users/rounak/Documents/GitHub/stack/StackByInheritence.cpp
+StackByInheritence.h
+/Users/rounak/Documents/GitHub/stack/StackByInheritence.h
+iostream
+-
+LinearList.h
+/Users/rounak/Documents/GitHub/stack/LinearList.h
+
+/Users/rounak/Documents/GitHub/stack/StackByInheritence.h
+LinearList.h
+/Users/rounak/Documents/GitHub/stack/LinearList.h
+iostream
+-
+
+/Users/rounak/Documents/GitHub/stack/SwitBoxApplication.cpp
+iostream
+-
+StackByInheritence.h
+/Users/rounak/Documents/GitHub/stack/StackByInheritence.h
+

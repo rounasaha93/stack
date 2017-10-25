@@ -8,7 +8,7 @@
 using namespace std;
 
 //Use This Method to Test Implementation of Stack By Inheritance
-int main() {
+int main_off2() {
     StackByInheritence<int> stack(20);
     return 0;
 }
