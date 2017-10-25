@@ -37,7 +37,7 @@ bool checkSwitchBox(int pinString[], int n) {
     return false;
 }
 
-int main() {
+int main_off3() {
     int noPins;
     cout << "Enter the no of pins : ";
     cin >> noPins;

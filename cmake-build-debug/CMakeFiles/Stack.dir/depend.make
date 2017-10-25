@@ -12,3 +12,7 @@ CMakeFiles/Stack.dir/SwitBoxApplication.cpp.o: ../LinearList.h
 CMakeFiles/Stack.dir/SwitBoxApplication.cpp.o: ../StackByInheritence.h
 CMakeFiles/Stack.dir/SwitBoxApplication.cpp.o: ../SwitBoxApplication.cpp
 
+CMakeFiles/Stack.dir/binaryNumberConversion.cpp.o: ../LinearList.h
+CMakeFiles/Stack.dir/binaryNumberConversion.cpp.o: ../StackByInheritence.h
+CMakeFiles/Stack.dir/binaryNumberConversion.cpp.o: ../binaryNumberConversion.cpp
+

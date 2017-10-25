@@ -100,6 +100,9 @@
 		<Unit filename="/Users/rounak/Documents/GitHub/stack/SwitBoxApplication.cpp">
 			<Option target="Stack"/>
 		</Unit>
+		<Unit filename="/Users/rounak/Documents/GitHub/stack/binaryNumberConversion.cpp">
+			<Option target="Stack"/>
+		</Unit>
 		<Unit filename="/Users/rounak/Documents/GitHub/stack/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

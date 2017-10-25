@@ -204,6 +204,33 @@ SwitBoxApplication.cpp.s:
 	$(MAKE) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/SwitBoxApplication.cpp.s
 .PHONY : SwitBoxApplication.cpp.s
 
+binaryNumberConversion.o: binaryNumberConversion.cpp.o
+
+.PHONY : binaryNumberConversion.o
+
+# target to build an object file
+binaryNumberConversion.cpp.o:
+	$(MAKE) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/binaryNumberConversion.cpp.o
+.PHONY : binaryNumberConversion.cpp.o
+
+binaryNumberConversion.i: binaryNumberConversion.cpp.i
+
+.PHONY : binaryNumberConversion.i
+
+# target to preprocess a source file
+binaryNumberConversion.cpp.i:
+	$(MAKE) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/binaryNumberConversion.cpp.i
+.PHONY : binaryNumberConversion.cpp.i
+
+binaryNumberConversion.s: binaryNumberConversion.cpp.s
+
+.PHONY : binaryNumberConversion.s
+
+# target to generate assembly for a file
+binaryNumberConversion.cpp.s:
+	$(MAKE) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/binaryNumberConversion.cpp.s
+.PHONY : binaryNumberConversion.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -222,6 +249,9 @@ help:
 	@echo "... SwitBoxApplication.o"
 	@echo "... SwitBoxApplication.i"
 	@echo "... SwitBoxApplication.s"
+	@echo "... binaryNumberConversion.o"
+	@echo "... binaryNumberConversion.i"
+	@echo "... binaryNumberConversion.s"
 .PHONY : help
 
 
