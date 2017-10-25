@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/rounak/CLionProjects/Stack/cmake-build-debug"/>
+				<Option working_dir="/Users/rounak/Documents/GitHub/stack/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/rounak/CLionProjects/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/rounak/CLionProjects/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/rounak/CLionProjects/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/rounak/CLionProjects/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/rounak/Documents/GitHub/stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/rounak/Documents/GitHub/stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/rounak/Documents/GitHub/stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/rounak/Documents/GitHub/stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/rounak/CLionProjects/Stack/cmake-build-debug"/>
+				<Option working_dir="/Users/rounak/Documents/GitHub/stack/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/rounak/CLionProjects/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/rounak/CLionProjects/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/rounak/CLionProjects/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/rounak/CLionProjects/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/rounak/Documents/GitHub/stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/rounak/Documents/GitHub/stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/rounak/Documents/GitHub/stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/rounak/Documents/GitHub/stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/rounak/CLionProjects/Stack/cmake-build-debug"/>
+				<Option working_dir="/Users/rounak/Documents/GitHub/stack/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/rounak/CLionProjects/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/rounak/CLionProjects/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/rounak/CLionProjects/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/rounak/CLionProjects/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/rounak/Documents/GitHub/stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/rounak/Documents/GitHub/stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/rounak/Documents/GitHub/stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/rounak/Documents/GitHub/stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Stack">
-				<Option output="/Users/rounak/CLionProjects/Stack/cmake-build-debug/Stack" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/rounak/CLionProjects/Stack/cmake-build-debug"/>
+				<Option output="/Users/rounak/Documents/GitHub/stack/cmake-build-debug/Stack" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rounak/Documents/GitHub/stack/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -53,15 +53,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/rounak/CLionProjects/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 Stack"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/rounak/CLionProjects/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/rounak/CLionProjects/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/rounak/CLionProjects/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/rounak/Documents/GitHub/stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 Stack"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/rounak/Documents/GitHub/stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/rounak/Documents/GitHub/stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/rounak/Documents/GitHub/stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Stack/fast">
-				<Option output="/Users/rounak/CLionProjects/Stack/cmake-build-debug/Stack" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/rounak/CLionProjects/Stack/cmake-build-debug"/>
+				<Option output="/Users/rounak/Documents/GitHub/stack/cmake-build-debug/Stack" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rounak/Documents/GitHub/stack/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -75,29 +75,32 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/rounak/CLionProjects/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 Stack/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/rounak/CLionProjects/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/rounak/CLionProjects/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/rounak/CLionProjects/Stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/rounak/Documents/GitHub/stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 Stack/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/rounak/Documents/GitHub/stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/rounak/Documents/GitHub/stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/rounak/Documents/GitHub/stack/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/rounak/CLionProjects/Stack/LinearList.h">
+		<Unit filename="/Users/rounak/Documents/GitHub/stack/LinearList.h">
 			<Option target="Stack"/>
 		</Unit>
-		<Unit filename="/Users/rounak/CLionProjects/Stack/Stack.cpp">
+		<Unit filename="/Users/rounak/Documents/GitHub/stack/Stack.cpp">
 			<Option target="Stack"/>
 		</Unit>
-		<Unit filename="/Users/rounak/CLionProjects/Stack/Stack.h">
+		<Unit filename="/Users/rounak/Documents/GitHub/stack/Stack.h">
 			<Option target="Stack"/>
 		</Unit>
-		<Unit filename="/Users/rounak/CLionProjects/Stack/StackByInheritence.cpp">
+		<Unit filename="/Users/rounak/Documents/GitHub/stack/StackByInheritence.cpp">
 			<Option target="Stack"/>
 		</Unit>
-		<Unit filename="/Users/rounak/CLionProjects/Stack/StackByInheritence.h">
+		<Unit filename="/Users/rounak/Documents/GitHub/stack/StackByInheritence.h">
 			<Option target="Stack"/>
 		</Unit>
-		<Unit filename="/Users/rounak/CLionProjects/Stack/CMakeLists.txt">
+		<Unit filename="/Users/rounak/Documents/GitHub/stack/SwitBoxApplication.cpp">
+			<Option target="Stack"/>
+		</Unit>
+		<Unit filename="/Users/rounak/Documents/GitHub/stack/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

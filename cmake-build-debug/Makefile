@@ -48,10 +48,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/rounak/CLionProjects/Stack
+CMAKE_SOURCE_DIR = /Users/rounak/Documents/GitHub/stack
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/rounak/CLionProjects/Stack/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/rounak/Documents/GitHub/stack/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/rounak/CLionProjects/Stack/cmake-build-debug/CMakeFiles /Users/rounak/CLionProjects/Stack/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/rounak/Documents/GitHub/stack/cmake-build-debug/CMakeFiles /Users/rounak/Documents/GitHub/stack/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/rounak/CLionProjects/Stack/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/rounak/Documents/GitHub/stack/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -177,6 +177,33 @@ StackByInheritence.cpp.s:
 	$(MAKE) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/StackByInheritence.cpp.s
 .PHONY : StackByInheritence.cpp.s
 
+SwitBoxApplication.o: SwitBoxApplication.cpp.o
+
+.PHONY : SwitBoxApplication.o
+
+# target to build an object file
+SwitBoxApplication.cpp.o:
+	$(MAKE) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/SwitBoxApplication.cpp.o
+.PHONY : SwitBoxApplication.cpp.o
+
+SwitBoxApplication.i: SwitBoxApplication.cpp.i
+
+.PHONY : SwitBoxApplication.i
+
+# target to preprocess a source file
+SwitBoxApplication.cpp.i:
+	$(MAKE) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/SwitBoxApplication.cpp.i
+.PHONY : SwitBoxApplication.cpp.i
+
+SwitBoxApplication.s: SwitBoxApplication.cpp.s
+
+.PHONY : SwitBoxApplication.s
+
+# target to generate assembly for a file
+SwitBoxApplication.cpp.s:
+	$(MAKE) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/SwitBoxApplication.cpp.s
+.PHONY : SwitBoxApplication.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -192,6 +219,9 @@ help:
 	@echo "... StackByInheritence.o"
 	@echo "... StackByInheritence.i"
 	@echo "... StackByInheritence.s"
+	@echo "... SwitBoxApplication.o"
+	@echo "... SwitBoxApplication.i"
+	@echo "... SwitBoxApplication.s"
 .PHONY : help
 
 

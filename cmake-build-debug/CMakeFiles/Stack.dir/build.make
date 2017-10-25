@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/rounak/CLionProjects/Stack
+CMAKE_SOURCE_DIR = /Users/rounak/Documents/GitHub/stack
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/rounak/CLionProjects/Stack/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/rounak/Documents/GitHub/stack/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Stack.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/Stack.dir/flags.make
 
 CMakeFiles/Stack.dir/Stack.cpp.o: CMakeFiles/Stack.dir/flags.make
 CMakeFiles/Stack.dir/Stack.cpp.o: ../Stack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/rounak/CLionProjects/Stack/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Stack.dir/Stack.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Stack.dir/Stack.cpp.o -c /Users/rounak/CLionProjects/Stack/Stack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/rounak/Documents/GitHub/stack/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Stack.dir/Stack.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Stack.dir/Stack.cpp.o -c /Users/rounak/Documents/GitHub/stack/Stack.cpp
 
 CMakeFiles/Stack.dir/Stack.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Stack.dir/Stack.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/rounak/CLionProjects/Stack/Stack.cpp > CMakeFiles/Stack.dir/Stack.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/rounak/Documents/GitHub/stack/Stack.cpp > CMakeFiles/Stack.dir/Stack.cpp.i
 
 CMakeFiles/Stack.dir/Stack.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Stack.dir/Stack.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/rounak/CLionProjects/Stack/Stack.cpp -o CMakeFiles/Stack.dir/Stack.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/rounak/Documents/GitHub/stack/Stack.cpp -o CMakeFiles/Stack.dir/Stack.cpp.s
 
 CMakeFiles/Stack.dir/Stack.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/Stack.dir/Stack.cpp.o.provides.build: CMakeFiles/Stack.dir/Stack.cpp.
 
 CMakeFiles/Stack.dir/StackByInheritence.cpp.o: CMakeFiles/Stack.dir/flags.make
 CMakeFiles/Stack.dir/StackByInheritence.cpp.o: ../StackByInheritence.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/rounak/CLionProjects/Stack/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Stack.dir/StackByInheritence.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Stack.dir/StackByInheritence.cpp.o -c /Users/rounak/CLionProjects/Stack/StackByInheritence.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/rounak/Documents/GitHub/stack/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Stack.dir/StackByInheritence.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Stack.dir/StackByInheritence.cpp.o -c /Users/rounak/Documents/GitHub/stack/StackByInheritence.cpp
 
 CMakeFiles/Stack.dir/StackByInheritence.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Stack.dir/StackByInheritence.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/rounak/CLionProjects/Stack/StackByInheritence.cpp > CMakeFiles/Stack.dir/StackByInheritence.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/rounak/Documents/GitHub/stack/StackByInheritence.cpp > CMakeFiles/Stack.dir/StackByInheritence.cpp.i
 
 CMakeFiles/Stack.dir/StackByInheritence.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Stack.dir/StackByInheritence.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/rounak/CLionProjects/Stack/StackByInheritence.cpp -o CMakeFiles/Stack.dir/StackByInheritence.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/rounak/Documents/GitHub/stack/StackByInheritence.cpp -o CMakeFiles/Stack.dir/StackByInheritence.cpp.s
 
 CMakeFiles/Stack.dir/StackByInheritence.cpp.o.requires:
 
@@ -105,19 +105,45 @@ CMakeFiles/Stack.dir/StackByInheritence.cpp.o.provides: CMakeFiles/Stack.dir/Sta
 CMakeFiles/Stack.dir/StackByInheritence.cpp.o.provides.build: CMakeFiles/Stack.dir/StackByInheritence.cpp.o
 
 
+CMakeFiles/Stack.dir/SwitBoxApplication.cpp.o: CMakeFiles/Stack.dir/flags.make
+CMakeFiles/Stack.dir/SwitBoxApplication.cpp.o: ../SwitBoxApplication.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/rounak/Documents/GitHub/stack/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Stack.dir/SwitBoxApplication.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Stack.dir/SwitBoxApplication.cpp.o -c /Users/rounak/Documents/GitHub/stack/SwitBoxApplication.cpp
+
+CMakeFiles/Stack.dir/SwitBoxApplication.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Stack.dir/SwitBoxApplication.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/rounak/Documents/GitHub/stack/SwitBoxApplication.cpp > CMakeFiles/Stack.dir/SwitBoxApplication.cpp.i
+
+CMakeFiles/Stack.dir/SwitBoxApplication.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Stack.dir/SwitBoxApplication.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/rounak/Documents/GitHub/stack/SwitBoxApplication.cpp -o CMakeFiles/Stack.dir/SwitBoxApplication.cpp.s
+
+CMakeFiles/Stack.dir/SwitBoxApplication.cpp.o.requires:
+
+.PHONY : CMakeFiles/Stack.dir/SwitBoxApplication.cpp.o.requires
+
+CMakeFiles/Stack.dir/SwitBoxApplication.cpp.o.provides: CMakeFiles/Stack.dir/SwitBoxApplication.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/SwitBoxApplication.cpp.o.provides.build
+.PHONY : CMakeFiles/Stack.dir/SwitBoxApplication.cpp.o.provides
+
+CMakeFiles/Stack.dir/SwitBoxApplication.cpp.o.provides.build: CMakeFiles/Stack.dir/SwitBoxApplication.cpp.o
+
+
 # Object files for target Stack
 Stack_OBJECTS = \
 "CMakeFiles/Stack.dir/Stack.cpp.o" \
-"CMakeFiles/Stack.dir/StackByInheritence.cpp.o"
+"CMakeFiles/Stack.dir/StackByInheritence.cpp.o" \
+"CMakeFiles/Stack.dir/SwitBoxApplication.cpp.o"
 
 # External object files for target Stack
 Stack_EXTERNAL_OBJECTS =
 
 Stack: CMakeFiles/Stack.dir/Stack.cpp.o
 Stack: CMakeFiles/Stack.dir/StackByInheritence.cpp.o
+Stack: CMakeFiles/Stack.dir/SwitBoxApplication.cpp.o
 Stack: CMakeFiles/Stack.dir/build.make
 Stack: CMakeFiles/Stack.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/rounak/CLionProjects/Stack/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Stack"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/rounak/Documents/GitHub/stack/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Stack"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Stack.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -127,6 +153,7 @@ CMakeFiles/Stack.dir/build: Stack
 
 CMakeFiles/Stack.dir/requires: CMakeFiles/Stack.dir/Stack.cpp.o.requires
 CMakeFiles/Stack.dir/requires: CMakeFiles/Stack.dir/StackByInheritence.cpp.o.requires
+CMakeFiles/Stack.dir/requires: CMakeFiles/Stack.dir/SwitBoxApplication.cpp.o.requires
 
 .PHONY : CMakeFiles/Stack.dir/requires
 
@@ -135,6 +162,6 @@ CMakeFiles/Stack.dir/clean:
 .PHONY : CMakeFiles/Stack.dir/clean
 
 CMakeFiles/Stack.dir/depend:
-	cd /Users/rounak/CLionProjects/Stack/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/rounak/CLionProjects/Stack /Users/rounak/CLionProjects/Stack /Users/rounak/CLionProjects/Stack/cmake-build-debug /Users/rounak/CLionProjects/Stack/cmake-build-debug /Users/rounak/CLionProjects/Stack/cmake-build-debug/CMakeFiles/Stack.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/rounak/Documents/GitHub/stack/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/rounak/Documents/GitHub/stack /Users/rounak/Documents/GitHub/stack /Users/rounak/Documents/GitHub/stack/cmake-build-debug /Users/rounak/Documents/GitHub/stack/cmake-build-debug /Users/rounak/Documents/GitHub/stack/cmake-build-debug/CMakeFiles/Stack.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Stack.dir/depend
 
