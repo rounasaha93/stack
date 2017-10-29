@@ -8,6 +8,11 @@ CMakeFiles/Stack.dir/StackByInheritence.cpp.o
  /Users/rounak/Documents/GitHub/stack/LinearList.h
  /Users/rounak/Documents/GitHub/stack/StackByInheritence.cpp
  /Users/rounak/Documents/GitHub/stack/StackByInheritence.h
+CMakeFiles/Stack.dir/StackByLL.cpp.o
+ /Users/rounak/Documents/GitHub/stack/ChainNode.h
+ /Users/rounak/Documents/GitHub/stack/LinkedListChain.h
+ /Users/rounak/Documents/GitHub/stack/StackByLL.cpp
+ /Users/rounak/Documents/GitHub/stack/StackByLL.h
 CMakeFiles/Stack.dir/SwitBoxApplication.cpp.o
  /Users/rounak/Documents/GitHub/stack/LinearList.h
  /Users/rounak/Documents/GitHub/stack/StackByInheritence.h

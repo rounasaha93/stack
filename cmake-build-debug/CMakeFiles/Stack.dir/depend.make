@@ -8,6 +8,11 @@ CMakeFiles/Stack.dir/StackByInheritence.cpp.o: ../LinearList.h
 CMakeFiles/Stack.dir/StackByInheritence.cpp.o: ../StackByInheritence.cpp
 CMakeFiles/Stack.dir/StackByInheritence.cpp.o: ../StackByInheritence.h
 
+CMakeFiles/Stack.dir/StackByLL.cpp.o: ../ChainNode.h
+CMakeFiles/Stack.dir/StackByLL.cpp.o: ../LinkedListChain.h
+CMakeFiles/Stack.dir/StackByLL.cpp.o: ../StackByLL.cpp
+CMakeFiles/Stack.dir/StackByLL.cpp.o: ../StackByLL.h
+
 CMakeFiles/Stack.dir/SwitBoxApplication.cpp.o: ../LinearList.h
 CMakeFiles/Stack.dir/SwitBoxApplication.cpp.o: ../StackByInheritence.h
 CMakeFiles/Stack.dir/SwitBoxApplication.cpp.o: ../SwitBoxApplication.cpp

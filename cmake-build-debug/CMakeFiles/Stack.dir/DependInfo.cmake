@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/rounak/Documents/GitHub/stack/Stack.cpp" "/Users/rounak/Documents/GitHub/stack/cmake-build-debug/CMakeFiles/Stack.dir/Stack.cpp.o"
   "/Users/rounak/Documents/GitHub/stack/StackByInheritence.cpp" "/Users/rounak/Documents/GitHub/stack/cmake-build-debug/CMakeFiles/Stack.dir/StackByInheritence.cpp.o"
+  "/Users/rounak/Documents/GitHub/stack/StackByLL.cpp" "/Users/rounak/Documents/GitHub/stack/cmake-build-debug/CMakeFiles/Stack.dir/StackByLL.cpp.o"
   "/Users/rounak/Documents/GitHub/stack/SwitBoxApplication.cpp" "/Users/rounak/Documents/GitHub/stack/cmake-build-debug/CMakeFiles/Stack.dir/SwitBoxApplication.cpp.o"
   "/Users/rounak/Documents/GitHub/stack/binaryNumberConversion.cpp" "/Users/rounak/Documents/GitHub/stack/cmake-build-debug/CMakeFiles/Stack.dir/binaryNumberConversion.cpp.o"
   )

@@ -177,6 +177,33 @@ StackByInheritence.cpp.s:
 	$(MAKE) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/StackByInheritence.cpp.s
 .PHONY : StackByInheritence.cpp.s
 
+StackByLL.o: StackByLL.cpp.o
+
+.PHONY : StackByLL.o
+
+# target to build an object file
+StackByLL.cpp.o:
+	$(MAKE) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/StackByLL.cpp.o
+.PHONY : StackByLL.cpp.o
+
+StackByLL.i: StackByLL.cpp.i
+
+.PHONY : StackByLL.i
+
+# target to preprocess a source file
+StackByLL.cpp.i:
+	$(MAKE) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/StackByLL.cpp.i
+.PHONY : StackByLL.cpp.i
+
+StackByLL.s: StackByLL.cpp.s
+
+.PHONY : StackByLL.s
+
+# target to generate assembly for a file
+StackByLL.cpp.s:
+	$(MAKE) -f CMakeFiles/Stack.dir/build.make CMakeFiles/Stack.dir/StackByLL.cpp.s
+.PHONY : StackByLL.cpp.s
+
 SwitBoxApplication.o: SwitBoxApplication.cpp.o
 
 .PHONY : SwitBoxApplication.o
@@ -246,6 +273,9 @@ help:
 	@echo "... StackByInheritence.o"
 	@echo "... StackByInheritence.i"
 	@echo "... StackByInheritence.s"
+	@echo "... StackByLL.o"
+	@echo "... StackByLL.i"
+	@echo "... StackByLL.s"
 	@echo "... SwitBoxApplication.o"
 	@echo "... SwitBoxApplication.i"
 	@echo "... SwitBoxApplication.s"

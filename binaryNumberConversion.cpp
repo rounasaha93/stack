@@ -28,12 +28,12 @@ void binaryConversion(int n) {
     cout << endl;
 }
 
-int main() {
+int mainoff() {
     int decimal;
     cout << "Enter a Decimal Number : ";
     cin >> decimal;
     if (decimal > 0) {
-        cout << "The Binary Equivalen is : ";
+        cout << "The Binary Equivalent is : ";
         binaryConversion(decimal);
         cout << endl;
     } else {

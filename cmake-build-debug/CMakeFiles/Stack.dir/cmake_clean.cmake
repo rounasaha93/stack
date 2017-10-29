@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Stack.dir/StackByInheritence.cpp.o"
   "CMakeFiles/Stack.dir/SwitBoxApplication.cpp.o"
   "CMakeFiles/Stack.dir/binaryNumberConversion.cpp.o"
+  "CMakeFiles/Stack.dir/StackByLL.cpp.o"
   "Stack.pdb"
   "Stack"
 )

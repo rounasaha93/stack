@@ -6,7 +6,15 @@
 
 #IncludeRegexTransform: 
 
+/Users/rounak/Documents/GitHub/stack/ChainNode.h
+
 /Users/rounak/Documents/GitHub/stack/LinearList.h
+iostream
+-
+
+/Users/rounak/Documents/GitHub/stack/LinkedListChain.h
+ChainNode.h
+/Users/rounak/Documents/GitHub/stack/ChainNode.h
 iostream
 -
 
@@ -33,6 +41,14 @@ LinearList.h
 /Users/rounak/Documents/GitHub/stack/LinearList.h
 iostream
 -
+
+/Users/rounak/Documents/GitHub/stack/StackByLL.cpp
+StackByLL.h
+/Users/rounak/Documents/GitHub/stack/StackByLL.h
+
+/Users/rounak/Documents/GitHub/stack/StackByLL.h
+LinkedListChain.h
+/Users/rounak/Documents/GitHub/stack/LinkedListChain.h
 
 /Users/rounak/Documents/GitHub/stack/SwitBoxApplication.cpp
 iostream
